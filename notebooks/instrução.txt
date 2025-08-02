@@ -1,1 +1,1 @@
-Colocar os arquivos notebook .ipynb aqui. Remover este arquivo após isso.
+Place notebook .ipynb files here. Delete this file afterwards.
