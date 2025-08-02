@@ -1,0 +1,1 @@
+Place images and other assets here, to serve README.md and documents/documentation.md
