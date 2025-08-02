@@ -1,5 +1,5 @@
-# ATENÇÃO! Não altere a lista abaixo, para que nenhuma fonte de dados seja incorporada ao seu repositório. 
-# Isso é um compromisso firmado entre o Inteli e seus parceiros de projetos acerca da proteção de dados.
+# WARNING! Do not change the list above, so no data source will be uploaded to your repository. 
+# This is a commitment established between Inteli and its project partners regarding data protection.
 # 
 *.csv
 *.xls
