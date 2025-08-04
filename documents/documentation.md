@@ -77,10 +77,9 @@ Remove this block at the end
 ```
 a) What data is available (source and content – e.g. Purchasing department data describing suppliers).
 b) What is the proposed solution (may be a summary of Section 2.2).
-c) What is the task type (regression, classification, recommendation).
-d) How the proposed solution will be used.
-e) What benefits the proposed solution brings.
-f) What will be the success criteria and which metric will be used to evaluate it.
+c) How the proposed solution will be used.
+d) What benefits the proposed solution brings.
+e) What will be the success criteria.
 
 Remove this block at the end
 ```
